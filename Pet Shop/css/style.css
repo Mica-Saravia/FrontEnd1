@@ -1,0 +1,66 @@
+@font-face {
+    font-family:"Roboto";
+    font-weight: 400;
+    src: url(../Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+#topmenu{
+    background-color: black;
+    color: white;
+}
+#frontmenu{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+#Banner{
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+    height: 409px;
+    width: 1025px;
+    left: 0px;
+    top: 81px;
+    border-radius: 0px;
+    text-align: center;
+}
+#Banner #Button{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+#Banner p{
+    color: #3C2313;
+}
+#Banner h2{
+    background-color: white;
+    color: #3C2313;
+}
+#Seccion_productos{
+    text-align: center;
+}
+
+h2.Productos{
+    text-align: center;
+   
+}
+
+#fondo_imagenes{
+    background-color: #FBFAF6;
+}
+
+#precio{
+    color: #F0A83E;
+}
+
+#contacto{
+    background-color: #3C2313;
+   
+}
+#contacto h3{
+    color: white;
+}
+#contacto p{
+    color: #8A8787;
+}
+
+#Down{
+    background-color: #222222;
+    color: white;
+}
